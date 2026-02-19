@@ -1,0 +1,18 @@
+title: Bill Mulligan
+email: bill@ebpf.io
+description:
+  Educator and community builder in the eBPF and Cloud Native ecosystem. 
+  Creator of eCHO News, the Kubernetes Community Days program, and advocate for Cilium and eBPF.
+baseurl: "" 
+
+# Social Links
+twitter_username: breakawaybilly
+github_username: xmulligan
+linkedin_username: bamulligan
+bluesky_username: breakawaybilly.bsky.social
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
